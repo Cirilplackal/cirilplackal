@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Framer,GSAP and Generative AI**
 
-- 👨‍💻 All of my projects are available at [cirilplackal.vercel.app](cirilplackal.vercel.app) (under maintenance)
+- 👨‍💻 All of my projects are available at [cirilplackal.vercel.app](https://cirilplackal.vercel.app) (under maintenance)
 
 - 💬 Ask me about **react,javascript,nest js and python**
 
