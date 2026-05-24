@@ -1,6 +1,5 @@
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,15:0B1026,35:111827,55:312E81,75:4F46E5,100:7C3AED&height=320&section=header&text=CIRIL%20PLACKAL&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20ENGINEER%20•%20AI%20BUILDER%20•%20FUTURE%20TECH%20EXPLORER&descAlignY=58&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=320&color=0:020412,20:0B1026,40:1E1B4B,60:312E81,80:7C3AED,100:A855F7&text=CIRIL%20PLACKAL&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=BUILDING%20INTELLIGENT%20DIGITAL%20UNIVERSES&descAlignY=58&descSize=20"/>
 
 </div>
 
