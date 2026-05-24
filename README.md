@@ -41,7 +41,8 @@ D --> E[🤖 AI Native Products]
 </br>
 </br>
 </br>
-
+</br>
+</br>
 
 My work combines:
 
@@ -182,7 +183,6 @@ I enjoy building products that feel:
 
 ---
 
-# 🐍 Contribution Snake Animation
 
 <div align="center">
 
